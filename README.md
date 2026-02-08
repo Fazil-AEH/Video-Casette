@@ -1,6 +1,6 @@
 # Video Cassette Rental System
 
-This project is developed for the course *Interdisciplinary Porject*.
+This project is developed for the course *Interdisciplinary Project*.
 
 ## Description
 The system allows customers to rent and return video cassettes, while administrators manage inventory and users.
